@@ -1,0 +1,6 @@
+secrets.json
+*.pyc
+instagram/venv/*
+.idea
+*.cpython-39.pyc
+*_env

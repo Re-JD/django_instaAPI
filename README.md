@@ -1,1 +1,1 @@
-# django_instaAPI
+# django_insta
